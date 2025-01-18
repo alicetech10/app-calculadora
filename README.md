@@ -1,16 +1,20 @@
-# myapp
+# Calculadora Flutter 🌟📱
+Este é um projeto simples de uma calculadora responsiva desenvolvida em Flutter. A interface é estilizada com cores que combinam rosa e verde, proporcionando uma aparência moderna e atrativa. O projeto foi projetado para funcionar em diversas plataformas.
 
-A new Flutter project.
+# Funcionalidades ✨
+**- Interface Responsiva:** Adapta-se automaticamente a diferentes tamanhos de tela.
+**- Design Moderno:** Estilizado com cores vibrantes e uma aparência elegante.
+**- Simples de Usar:** Oferece uma experiência intuitiva para realizar cálculos básicos.
+**- Estrutura Modulada:** Código bem organizado com componentes reutilizáveis.
 
-## Getting Started
+# Estrutura do Projeto 📂
+O projeto está dividido em diferentes arquivos para facilitar a manutenção e a expansão:
 
-This project is a starting point for a Flutter application.
+**- main.dart:** Ponto de entrada da aplicação, gerencia o layout principal e a interface.
+**- calculadora.dart:** Contém a lógica e o layout da calculadora.
+Demonstração 🖼️
+Abaixo está uma prévia do layout da calculadora:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tecnologias Utilizadas 💻
+**- Flutter:** Framework usado para criar a interface do usuário responsiva.
+**- Dart:** Linguagem de programação utilizada no desenvolvimento do aplicativo
